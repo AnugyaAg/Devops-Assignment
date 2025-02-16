@@ -17,4 +17,4 @@ Subversion (SVN) is an open-source version control system that allows users to t
    ```sh
    svn --version
    ```
-![Example Image]Screenshot 1.png
+![Example Image]https://github.com/AnugyaAg/Devops-Assignment/blob/main/Screenshot%201.png
